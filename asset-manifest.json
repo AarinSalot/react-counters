@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AarinSalot/react-counters.git/static/css/main.93669f59.css",
+    "main.js": "/AarinSalot/react-counters.git/static/js/main.e565d9f3.js",
+    "static/js/787.5863b875.chunk.js": "/AarinSalot/react-counters.git/static/js/787.5863b875.chunk.js",
+    "index.html": "/AarinSalot/react-counters.git/index.html",
+    "main.93669f59.css.map": "/AarinSalot/react-counters.git/static/css/main.93669f59.css.map",
+    "main.e565d9f3.js.map": "/AarinSalot/react-counters.git/static/js/main.e565d9f3.js.map",
+    "787.5863b875.chunk.js.map": "/AarinSalot/react-counters.git/static/js/787.5863b875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93669f59.css",
+    "static/js/main.e565d9f3.js"
+  ]
+}
